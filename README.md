@@ -6,6 +6,21 @@ https://youtube.com/devsuperior
 
 https://instagram.com/devsuperior.ig
 
+# Collection Postman completa
+
+https://api.postman.com/collections/1242165-67d08dc0-531c-45aa-a211-a02cba6f0e5d?access_key=PMAT-01GKP91EKZCH09H3PX5YYXESA1
+
+### Environment Postman
+
+```
+api-gateway : http://localhost:8765
+config-host : http://localhost:8888
+client-name : myappname123
+client-secret : myappsecret123
+username : leia@gmail.com
+password : 123456
+token :
+```
 # Fase 1: Comunicação simples, Feign, Ribbon
 
 ### 1.1 Criar projeto hr-worker
