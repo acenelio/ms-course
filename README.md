@@ -1,10 +1,6 @@
 # Curso Microsserviços Java com Spring Boot e Spring Cloud
-#### Nelio Alves 
-https://www.udemy.com/user/nelio-alves
 
-https://youtube.com/devsuperior
-
-https://instagram.com/devsuperior.ig
+![image](https://github.com/acenelio/ms-course/assets/77034798/16d3281a-3890-4d85-a484-3e6f05685061)
 
 # Collection Postman completa
 
